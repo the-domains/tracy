@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tracy]]></title>
         <description><![CDATA[Tracy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tracy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 10:22:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 10:22:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tracy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scale models of exhibits]]></title>
+            <description><![CDATA[<article><h1>Scale models of exhibits</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb1a63071a9813e5d99f6ea8232ecec2986ca0cf.png"></article>]]></description>
+            <link>https://thegrid.ai/tracy/scale-models-of-exhibits/index.html</link>
+            <guid isPermaLink="false">58e2e4c1-795d-4b70-a9ab-9dfdcd83a9ef</guid>
+            <pubDate>Sat, 20 Feb 2016 10:22:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Early booth work]]></title>
             <description><![CDATA[<article><h1>Early booth work</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e34bb670f9e5311bbf85681c6d5c717cd2cfe8a.png"></article>]]></description>
-            <link>undefinedearly-booth-work/index.html</link>
+            <link>https://thegrid.ai/tracy/early-booth-work/index.html</link>
             <guid isPermaLink="false">4ef0a7e1-148d-4d3f-9881-1612bf980249</guid>
             <pubDate>Sat, 20 Feb 2016 10:22:30 GMT</pubDate>
         </item>
