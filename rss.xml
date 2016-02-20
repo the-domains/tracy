@@ -4,8 +4,15 @@
         <description><![CDATA[Tracy]]></description>
         <link>https://thegrid.ai/tracy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 10:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 10:22:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tracy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HoloTube exhibit]]></title>
+            <description><![CDATA[<article><h1>HoloTube exhibit</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1dc8e19df18a176ee8399b6f0112ef0003d3e69.png"></article>]]></description>
+            <link>https://thegrid.ai/tracy/holotube-exhibit/index.html</link>
+            <guid isPermaLink="false">552ea556-0e79-4a91-b843-967d8b5599e0</guid>
+            <pubDate>Sat, 20 Feb 2016 10:22:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scale models of exhibits]]></title>
             <description><![CDATA[<article><h1>Scale models of exhibits</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb1a63071a9813e5d99f6ea8232ecec2986ca0cf.png"></article>]]></description>
