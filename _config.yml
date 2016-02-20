@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.3996415
 color:
-  saturation: 0.9551972
-  brandStrength: 0.7891278
-  rhythmicContrast: 0.6493428
+  saturation: 0.8405017
+  brandStrength: 1
+  lightness: 0.8512544
   brandColors:
-    - '#4B4B65'
-    - '#E6BF3A'
-    - '#2F2717'
-    - '#E66428'
-    - '#C6CEAC'
-  lightness: 0.6935483
+    - '#FFFFFF'
+    - '#000000'
+    - '#E20A17'
+    - '#0172C0'
+    - '#32982B'
+  rhythmicContrast: 0.1714456
 layout_spectrum: 0.327957
 name: Tracy
