@@ -1,0 +1,14 @@
+layout_spectrum: 0.327957
+typography_spectrum: 0.3353263
+color:
+  saturation: 0.9551972
+  lightness: 0.6935483
+  brandStrength: 0.7891278
+  brandColors:
+    - '#4B4B65'
+    - '#E6BF3A'
+    - '#2F2717'
+    - '#E66428'
+    - '#C6CEAC'
+  rhythmicContrast: 0.6493428
+name: Tracy
