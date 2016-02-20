@@ -1,14 +1,26 @@
-layout_spectrum: 0.327957
-typography_spectrum: 0.3353263
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3996415
 color:
   saturation: 0.9551972
-  lightness: 0.6935483
   brandStrength: 0.7891278
+  rhythmicContrast: 0.6493428
   brandColors:
     - '#4B4B65'
     - '#E6BF3A'
     - '#2F2717'
     - '#E66428'
     - '#C6CEAC'
-  rhythmicContrast: 0.6493428
+  lightness: 0.6935483
+layout_spectrum: 0.327957
 name: Tracy
